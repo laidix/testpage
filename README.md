@@ -1,1 +1,2 @@
 # testpage
+![Banner](Banner.png)
